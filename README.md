@@ -1,4 +1,4 @@
-# Geolocation_API-Automation_Test
+# Geolocation_API_Automation_Test
 Geolocation Api Automation Project
 
 # Overview
