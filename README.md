@@ -14,7 +14,7 @@ This project contains automated test for the Google Geolocation API.
 # Setup
 
 - Clone the Repositary
-- Update the "API_KEY" in 'apiutils' class with your Google api key.
+- Update the "API_KEY" in 'GeolocationApiTest' class with your Google api key.
 - Run the test using maven 'mvn test'.
 
 # Test Summary report
@@ -24,4 +24,4 @@ The test report will be generated in the root directory with the name of 'Geoloc
 # Reference
 
 - Geolocation API > https://developers.google.com/maps/documentation/geolocation/overview
--  Get api key > https://developers.google.com/maps/documentation/geolocation/get-api-key
+- Get api key > https://developers.google.com/maps/documentation/geolocation/get-api-key
